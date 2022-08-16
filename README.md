@@ -48,8 +48,8 @@
 - Rename the Fork Repo Put Anything Example : ULTRONBOT, ULTRONUB, ULTRONOFFBOT etc...
 - Now U Can Deploy This Bot.
 
-<a href="https://heroku.com/deploy/template/TeamUltronBOT/Ultron" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
-</a>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TeamUltronBOT/Ultron">
+  <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-aqua?style=flat&logo=heroku" width="325" height="50.100" /></a></p>
 
 ---------
 
@@ -69,7 +69,7 @@
 
 ## Repl
 
-[![Run on Repl.it](https://replit.com/badge/github/TeamUltronBOT/Ultron)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py)
+[![Run on Repl.it](https://replit.com/badge/github/TeamUltronBOT/Ultron)](https://replit.com/@fflegend/ULTRON)
 
 - To Get Details Of StringSession Follow Step: 
 - Go To Telegram And Search @Legend_SessionGeneratorBot
