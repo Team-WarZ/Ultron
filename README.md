@@ -1,37 +1,38 @@
-[![LEGENDBOT](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
+[![ULTRON](https://te.legra.ph/file/0c9d1ff126e731a2c6946.jpg)](https://github.com/TeamUltronBOT/THEULTRON)
 
 
 <h1 align="center">
-<b> 『Lêɠêɳ̃dẞø†』 </b>
+<b> 『ṳℓтԻ✺ℵ』 </b>
 </h1>
 
 <h6 align="center">
-  <b>⚡ Presenting a LegendBot. Which Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon ⚡</b>
+  <b>⚡ Presenting a Ultron. Which Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon ⚡</b>
 </h6>
 
 
-[![](https://img.shields.io/badge/LegendBot-v2.0-blue)](#)
-[![Stars](https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?style=flat-square&color=yellow)](https://github.com/LEGEND-AI/LEGENDBOT/stargazers)
-[![Forks](https://img.shields.io/github/forks/LEGEND-AI/LEGENDBOT?style=flat-square&color=orange)](https://github.com/LEGEND-AI/LEGENDBOT/fork)
-[![Size](https://img.shields.io/github/repo-size/LEGEND-AI/LEGENDBOT?style=flat-square&color=green)](https://github.com/LEGEND-AI/LEGENDBOT/)   
+[![](https://img.shields.io/badge/Ultron-v2.0-blue)](#)
+[![Stars](https://img.shields.io/github/stars/TeamUltronBOT/Ultron?style=flat-square&color=yellow)](https://github.com/TeamUltronBOT/Ultron/stargazers)
+[![Forks](https://img.shields.io/github/forks/TeamUltronBOT/Ultron?style=flat-square&color=orange)](https://github.com/TeamUltronBOT/Ultron/fork)
+[![Size](https://img.shields.io/github/repo-size/TeamUltronBOT/Ultron?style=flat-square&color=green)](https://github.com/TeamUltronBOT/Ultron/)   
 [![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/LEGEND-AI/LEGENDBOT/graphs/commit-activity)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LEGEND-AI/LEGENDBOT)
-[![Contributors](https://img.shields.io/github/contributors/LEGEND-AI/LEGENDBOT?style=flat-square&color=green)](https://github.com/LEGEND-AI/LEGENDBOT/graphs/contributors)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TeamUltronBOT/Ultron/graphs/commit-activity)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TeamUltronBOT/Ultron)
+[![Contributors](https://img.shields.io/github/contributors/TeamUltronBOT/Ultron?style=flat-square&color=green)](https://github.com/TeamUltronBOT/Ultron/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/LEGEND-AI/LEGENDBOT/blob/main/LICENSE)   
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TeamUltronBOT/Ultron/blob/main/LICENSE)   
 
 ------
 
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/LEGEND-AI/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT?"></a>
+    <a href="https://github.com/TeamUltronBOT/Ultron/network/members"><img src="https://img.shields.io/github/forks/TeamUltronBOT/Ultron?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/TeamUltronBOT/Ultron/stargazers"><img src="https://img.shields.io/github/stars/TeamUltronBOT/Ultron?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/TeamUltronBOT/Ultron"></a><p align="left"><a href="https://github.com/TeamUltronBOT/Ultron?"></a>
 
 ------
 
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Legend_K_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_K_LegendBot)
+- [![Team Ultron](https://img.shields.io/badge/Team-Ultron-brightgreen)](https://t.me/TeamUltronBOT)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/UltronUBSupport)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/TheUltronUBOT)
 
 ------
 
@@ -44,10 +45,10 @@
 
 - Fork This Main Repo.
 - Go to Setting Of Repo.
-- Rename the Fork Repo Put Anything Example : LEGEND1BOT, HSKSBOT, LEGENDOFFBOT etc...
+- Rename the Fork Repo Put Anything Example : ULTRONBOT, ULTRONUB, ULTRONOFFBOT etc...
 - Now U Can Deploy This Bot.
 
-<a href="https://heroku.com/deploy/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+<a href="https://heroku.com/deploy/template/TeamUltronBOT/Ultron" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 </a>
 
 ---------
@@ -68,7 +69,7 @@
 
 ## Repl
 
-[![Run on Repl.it](https://replit.com/badge/github/LEGEND-AI/LEGENDBOT)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py)
+[![Run on Repl.it](https://replit.com/badge/github/TeamUltronBOT/Ultron)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py)
 
 - To Get Details Of StringSession Follow Step: 
 - Go To Telegram And Search @Legend_SessionGeneratorBot
@@ -88,7 +89,7 @@
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your LegendBot Session Will be saved in your Telegram Saved Message.
+- Your Ultron Session Will be saved in your Telegram Saved Message.
 
 
 ## Self Host VPS
@@ -101,7 +102,7 @@
 
 - `git clone https://github.com/ITS-LEGENDBOT/LEGENDBOT` 
 
-- `cd LEGENDBOT`
+- `cd ULTRON`
 
 - `sudo apt install virtualenv`
 
@@ -113,7 +114,7 @@
 
 - `sudo apt install screen`
 
-- `screen -S LEGENDBOT`
+- `screen -S ULTRON`
 
 - `virtualenv venv`
 
@@ -121,7 +122,7 @@
 
 - `pip3 install -r requirements.txt`
 
-- `python3 -m Legendbot`
+- `python3 -m ULTRON`
  
 ------
 
@@ -130,7 +131,7 @@
 >                     ❗YOU ARE FOREWARNED❗
 > We won't be responsible for any kind of ban due to this bot.
 
-> LegendBot was made for fun purpose and to make group management easier.
+> Ultron was made for fun purpose and to make group management easier.
 
 > It's your concern if you spam and gets your account banned.
 
@@ -147,4 +148,4 @@
 </details>
 
 
-> Made with 💕 by [@LegendBot_XD](https://t.me/LegendBot_XD).    
+> Made with 💕 by [Team Ultron](https://t.me/TeamUltronBOT).    
